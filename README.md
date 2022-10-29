@@ -1,6 +1,6 @@
 [![@realjoni77's Holopin board](https://holopin.me/realjoni77)](https://holopin.io/@realjoni77)
 
-- Imposter
+https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
 
 <!---
 realjoni17/realjoni17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
