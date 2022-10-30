@@ -15,7 +15,7 @@
 
 [![@realjoni77's Holopin board](https://holopin.me/realjoni77)](https://holopin.io/@realjoni77)
 
-![Snake animation](https://github.com/realjoni17/realjoni17/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/realjoni17/realjoni17/output/github-contribution-grid-snake.svg)
  
  
  
