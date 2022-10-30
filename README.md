@@ -1,8 +1,29 @@
+<p align="center">
+  <img src="https://github.com/JahidHasanCO/JahidHasanCo/blob/main/cover%20jahid%20hasan.png" />
+</p>
+<h2 align="center">Hey there, I'm <a href="https://www.facebook.com/hJahidHasan.jrC/">Joni Sharma</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h2>
+
+
+
+###  💬 I'm Imposter 😄
+
+
+<br />
+<br />
+
+
+
 [![@realjoni77's Holopin board](https://holopin.me/realjoni77)](https://holopin.io/@realjoni77)
 
-
-<!---
-realjoni17/realjoni17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/JahidHasanCO/JahidHasanCo/output/github-contribution-grid-snake.svg">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
