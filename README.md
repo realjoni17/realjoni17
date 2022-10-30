@@ -15,7 +15,7 @@
 
 [![@realjoni77's Holopin board](https://holopin.me/realjoni77)](https://holopin.io/@realjoni77)
 
-<img src="https://github.com/realjoni17/realjoni17/blob/main/bg.png">
+<img src="">
  
  
  
